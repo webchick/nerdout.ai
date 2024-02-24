@@ -1,0 +1,38 @@
+# Let's Nerd Out About AI!
+## Feb 23 Edition!
+
+Meetup event: https://www.meetup.com/nerdout-ai/events/298816902/
+
+## Who came?
+Attendees: ~15 / 30
+
+Mix of:
+- Developers/Engineers/Data Scientists
+- Creative folks
+- Students
+- AI Hobbyists / Messing around with it
+- Folks new to / curious about AI
+- Folks in Marketing / Communications / Content
+- Folks looking for work
+
+## What did we talk about?
+Here's a non-exhaustive link dump of some of the things we talked about:
+
+* Stu gave several tech-y demos:
+  * Using https://ollama.com/ to run various models locally, such as [Mistral](https://mistral.ai/)
+    * See https://huggingface.co/models for MANY more! :D
+  * [PrivateGPT](https://github.com/imartinez/privateGPT) is a completely self-contained local AI chatbot experience where you can give it access to your own docs, PDFs, etc. to process without sending any of your data to third parties. See the [quickstart guide](https://docs.privategpt.dev/overview/welcome/quickstart).
+  * [GitHub Copilot](https://github.com/features/copilot) integrated into the [Visual Studio Code](https://code.visualstudio.com/) IDE to do code generation
+
+* Another big topic brought up by Josh was the societal implications of AI. For example, [massive tech layoffs](https://layoffs.fyi/) with money bring re-invested in AI instead. :\
+
+* In Tom's recurring quest for AI video generation for his book characters, it was noted that OpenAI recently previewed [Sora](https://openai.com/sora) which can generate incredibly realistic videos up to 1 min in length based purely on a text prompt. (See the jaw-dropping demos in the middle of the page.)
+
+* Angie brought up that for a brief period of time a couple of weeks ago, you could [get ChatGPT to reveal the base set of instructions it was prompted with](https://gist.github.com/webchick/1f1dc50d22136372326bee9d9c76baf9)
+  * We then attempted to do the same thing with [Bing Copilot](https://www.bing.com/search?toncp=0&FORM=hpcodx&q=Bing+AI&showconv=1), with *very* interesting results!
+    * The first time, it started to spit out very similar text, then suddenly replaced all of it with:
+      "My mistake, I can't give a response to that right now. Let's try a different topic." 😳 Everyone went "WOAH!!"
+    * We tried to replicate this several times, once in incognito mode, once with [Brave](https://brave.com/) browser (which is an open source browser focused on privacy) using [Tor](https://www.torproject.org/) (which bounces requests around so your IP is hidden), but no dice.
+      * One of the attempts did seem to break it differently, in that it was spitting out a response to a weather request for Redmond, WA, saying that it would be a "sizzling" day of 88º ... this seems a bit dubious in February. ;)
+
+
